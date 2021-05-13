@@ -3,7 +3,7 @@
 ## 个人用的Cookiecutter
 
 * 抄的[Cookiecutter-Py-Package](https://github.com/AngusWG/cookiecutter-py-package)
-* 用于生成python项目疤
+* 用于生成python项目
 * 基于pytest
 * 带了versioneer
 
